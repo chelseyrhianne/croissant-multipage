@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(237, 237, 252, 0.973);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.navigation a {
+  padding: 20px;
+}
